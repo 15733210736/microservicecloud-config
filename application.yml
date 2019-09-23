@@ -4,12 +4,12 @@
     - dev
 ---
 spring:
-  profiles:dev
+  profiles: dev
   application:
    name: microservicecloud-config-yang-dev
 ---
 spring:
-  profiles:test
+  profiles: test
   application:
-    name:microservicecloud-config-yang-test
+    name: microservicecloud-config-yang-test
  
